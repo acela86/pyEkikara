@@ -4,6 +4,10 @@
 
 ![ss](https://user-images.githubusercontent.com/46576737/52183480-39ef9d00-27d6-11e9-8769-13338607ea67.png)
 
+工夫次第でこんなこともできます。 (You can use acquired data for various applications.)
+
+![sign](https://user-images.githubusercontent.com/46576737/52184852-dd48ae00-27e6-11e9-95b7-fce75cd3fd6e.jpg)
+
 # 開発環境 （Dependency）
 - Python 3.6
 - Beautiful Soup 4
